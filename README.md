@@ -33,7 +33,7 @@
 />
 </a>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpgusgh&show_icons=true&theme=synthwave)
+<p></p>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpgusgh&show_icons=true&theme=synthwave)
 
 
 <a href="https://www.buymeacoffee.com/kimhyunhi1l">
