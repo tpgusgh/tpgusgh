@@ -13,13 +13,13 @@
   
 </div>
 프론트엔드입니다
-
 ## 연락처
 
 - **이메일:** [kimhyunhi1@gmail.com](mailto:justn.hyeok@gmail.com)
 - **인스타그램:** [@hyu.2se](https://www.instagram.com/hyu.2se)
 - **벨로그:** [@tpgusgh](https://velog.io/@tpgusgh/posts)
-
+- **포트폴리오** [여기로](https://observant-agreement-17f.notion.site/15fbd5ffe3fa800398deef388bc7707e?pvs=4)
+<hr>
 프로필을 방문해주셔서 감사합니다
 
 ![cat](https://media.tenor.com/CnP64S7lszwAAAAj/meme-cat-cat-meme.gif) <hr>
