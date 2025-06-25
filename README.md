@@ -3,12 +3,25 @@
 ## 소개
 <div style=display="flex">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="React Native" src ="https://img.shields.io/badge/react native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="MYSQL" src ="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="FASTAPI" src ="https://img.shields.io/badge/fastapi-079486.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="FastAPI on Raspberry Pi" src="https://img.shields.io/badge/Pi5-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img alt="JSP" src="https://img.shields.io/badge/JSP-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+
+
 
   
 </div>
