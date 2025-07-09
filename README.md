@@ -53,5 +53,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpgusgh&show_icons=true&theme=synthwave)
 
 
-<a href="https://www.buymeacoffee.com/kimhyunhi1l">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kimhyunhi1l&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tpgusgh.github.io/github-snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://tpgusgh.github.io/github-snake/github-snake.svg" />
+  <img alt="github-snake" src="https://tpgusgh.github.io/github-snake/github-snake.svg" />
+</picture>
