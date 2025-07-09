@@ -52,8 +52,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpgusgh&show_icons=true&theme=synthwave)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://tpgusgh.github.io/github-snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://tpgusgh.github.io/github-snake/github-snake.svg" />
-  <img alt="github-snake" src="https://tpgusgh.github.io/github-snake/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="github-snake-dark" src="https://raw.githubusercontent.com/tpgusgh/github-snake/1a2c8c1e47cd689156ea436e9c392a9fe4387270/github-snake-dark.svg" />
+</p>
+
+
