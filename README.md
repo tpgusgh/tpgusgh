@@ -1,7 +1,7 @@
 # 환영합니다! 개발자 김현호입니다
 
 ## 소개
-🖥️ 언어
+### 🖥️ 언어
 <div style="display:flex; flex-wrap:wrap; gap: 5px;"> 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
 <img alt="C++" src ="https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
@@ -11,7 +11,8 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /> 
 </div>
-🌐 프론트엔드
+
+### 🌐 프론트엔드
 <div style="display:flex; flex-wrap:wrap; gap: 5px;">
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
@@ -20,20 +21,22 @@
 <img alt="React Native" src ="https://img.shields.io/badge/React%20Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
 </div>
-🔧 백엔드
+
+### 🔧 백엔드
 <div style="display:flex; flex-wrap:wrap; gap: 5px;">
 <img alt="JSP" src="https://img.shields.io/badge/JSP-007396.svg?style=for-the-badge&logo=java&logoColor=white" /> 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" /> 
 </div>
-🧠 AI
+
+### 🧠 AI
 <div style="display:flex; flex-wrap:wrap; gap: 5px;">
 <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC72C.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logoColor=white" />
 </div>
 
-🖥️ 서버 / 인프라
+### 🖥️ 서버 / 인프라
 <div style="display:flex; flex-wrap:wrap; gap: 5px;"> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Raspberry Pi 5" src="https://img.shields.io/badge/Pi5-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
