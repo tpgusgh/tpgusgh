@@ -36,8 +36,8 @@
 🖥️ 서버 / 인프라
 <div style="display:flex; flex-wrap:wrap; gap: 5px;"> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Raspberry Pi 4" src="https://img.shields.io/badge/Pi5-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" /> 
-<img alt="Raspberry Pi 5" src="https://img.shields.io/badge/Pi5-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" /></div>
+<img alt="Raspberry Pi 5" src="https://img.shields.io/badge/Pi5-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</div>
 
 ## 연락처
 
