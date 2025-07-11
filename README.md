@@ -30,6 +30,14 @@
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" /> 
 </div>
 
+### 🔌 임베디드 & 하드웨어
+<div style="display:flex; flex-wrap:wrap; gap: 5px;">
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-000000.svg?style=for-the-badge&logo=platformio&logoColor=white" />
+</div>
+
 ### 🧠 AI
 <div style="display:flex; flex-wrap:wrap; gap: 5px;">
 <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC72C.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
