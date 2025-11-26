@@ -73,9 +73,6 @@
 />
 </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpgusgh&show_icons=true&theme=synthwave)
-
 <p align="center">
   <img alt="github-snake-dark" src="https://raw.githubusercontent.com/tpgusgh/github-snake/090bcb974217ae30b6caa0bee8811f54944a6ac6/github-snake.svg" />
 </p>
