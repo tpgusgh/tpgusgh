@@ -74,7 +74,7 @@
 </a>
 
 <p align="center">
-  <img alt="github-snake-dark" src="https://github.com/tpgusgh/github-snake/blob/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake-dark" src="https://github.com/tpgusgh/githubsnake/blob/main/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
