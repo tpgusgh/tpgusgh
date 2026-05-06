@@ -65,13 +65,14 @@
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tpgusgh&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/tpgusgh"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/720515976681417919/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 <p align="center">
   <img alt="github-snake-dark" src="https://github.com/tpgusgh/githubsnake/blob/main/github-contribution-grid-snake-dark.svg" />
